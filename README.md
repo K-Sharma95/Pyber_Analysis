@@ -6,7 +6,7 @@ significant change based on city type. Urban rides generated the highest amount 
 are also located in urban cities with 2405 drivers, then followed by suburban cities with 490 drivers, and finally rural cities with only 78 drivers.This low amount of rural drivers, and other factors, results in the most fare per ride occuring in rural cities, then suburban, then urban cities, and also the most fare(s) per driver following the same trend. 
 
 ## Summary 
-Based on these results I can make three recommendation for Pyber:
+Based on these results I can make three recommendations for Pyber;s management:
 1. Invest in more rural drivers 
 It can be deduced by the high fares per driver and high fares per ride in the rural cities that there is demand for more rides in rural areas. This will allow for more rides to take place and Pyber to effeciently add more revenue.
 
