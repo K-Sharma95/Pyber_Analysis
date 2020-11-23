@@ -7,14 +7,14 @@ are also located in urban cities with 2405 drivers, then followed by suburban ci
 
 ## Summary 
 Based on these results I can make three recommendations for Pyber;s management:
-1. Invest in more rural drivers 
+1. *Invest in more rural drivers 
 
 It can be deduced by the high fares per driver and high fares per ride in the rural cities that there is demand for more rides in rural areas. This will allow for more rides to take place and Pyber to effeciently add more revenue.
 
-2. Reduce Urban Drivers
+2. *Reduce Urban Drivers
 
 In order to solve the problem of less profitable rides happening in urban cities, and increase more profitible rides in suburban/rural cities, Pyber should provide an incentive for the large amount of drivers to relocate or work in less populated cities. This will help Pyber generate revenue by using existing drivers in more lucritive areas.
 
-3. Adress the Upward trend in the Suburban City type 
+3. *Adress the Upward trend in the Suburban City type 
 
 As we can see on the fare summary line graph, the fares after April of 2019 are increasing in Suburban cities. This is likely due to the drivers there experiencing more rides and more drivers joining the workforce as the Suburbs grow larger and more similar to urban cities. To combat this Pyber should consider where demand has increased and tactically position suburban drivers in these places. 
